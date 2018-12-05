@@ -1,0 +1,8 @@
+*{box-sizing: border-box;margin: 0}
+
+.nav{flex: 1;background-color: black;height: 100vh; }
+.main{flex: 1;background-color: aqua;height: 100vh;display: flex;flex-direction: row}
+.container{flex: 3;background-color: blueviolet;height: 100vh;display: flex;flex-direction: column}
+.head{flex: 1;background-color: blue;height: 20vh;}
+.content{flex: 3;background-color: brown;height:60vh }
+.footer{flex: 1;background-color: salmon;height: 200vh}
